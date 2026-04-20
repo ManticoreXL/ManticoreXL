@@ -11,7 +11,7 @@
 
 ## Projects
 
-### [STM32 RC카 제어 시스템](https://github.com/ManticoreXL/STM32_RCCAR_CONTROLLER)
+### [STM32 RC카 레이싱 시스템](https://github.com/ManticoreXL/STM32_RCCAR_CONTROLLER)
 - 베어메탈 환경에서 RC카 레이싱 시스템 구현
 - RC카 및 컨트롤러 펌웨어 개발 담당
 
