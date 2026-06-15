@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=000080&height=250&section=header&" width="100%">
 
 # Hi, I'm Minseok Choi.
-System OS & Embedded Software Developer
+시스템 소프트웨어 & 로봇 소프트웨어 엔지니어를 목표로 합니다.
 
 ### 👨‍💻 About Me
 | Period | Activity |
 | :--- | :--- |
-| 2025.12.23 ~ 2026.07.21 | 대한상공회의소 서울기술교육센터 **AI 융합 로봇 SW개발자 2기** |
+| 2025.12.23 ~ 2026.07.21 | AI 융합 로봇 SW개발자 2기 |
 | 2020.03.02 ~ 2026.02.14 | 광운대학교 컴퓨터정보공학부 |
 
 ### 🛠️ Tech Stack
@@ -18,7 +18,9 @@ System OS & Embedded Software Developer
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 #### 🔍 I've used
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![PLC](https://img.shields.io/badge/PLC-E60012?style=for-the-badge&logo=mitsubishi&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![PLC](https://img.shields.io/badge/PLC-E60012?style=for-the-badge&logo=mitsubishi&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🚀 Projects
 
