@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:0047AB&height=220&section=header&text=Minseok%20Choi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20%C2%B7%20Robotics%20%C2%B7%20System%20SW&descSize=18&descAlignY=60&descColor=a8c8f8" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=220&section=header&text=Minseok%20Choi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20%C2%B7%20Robotics%20%C2%B7%20System%20SW&descSize=18&descAlignY=60&descColor=a8c8f8" width="100%">
 
 # Hi, I'm Minseok Choi. 👋
 임베디드 시스템 개발자 & 로봇 소프트웨어 엔지니어를 목표로 합니다.
 
 <div align="center">
   <a href="https://ManticoreXL.github.io" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=58&text=🌐%20Portfolio%20→%20manticorexl.github.io&fontSize=19&fontColor=ffffff&fontAlign=50&fontAlignY=58&width=700" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=58&text=My%20%Portfolio&fontSize=19&fontColor=ffffff&fontAlign=50&fontAlignY=58&width=700" />
   </a>
   <br/>
 </div>
