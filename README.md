@@ -40,6 +40,10 @@
 - YOLO Pose 신체 랜드마크 기반의 투구 및 타격 자세 분석 시스템 구현
 - 데이터 전처리 및 학습, 웹 백엔드 및 API 라우터 개발 담당
 
+[![Pinky Person Tracker](https://github-readme-stats.vercel.app/api/pin/?username=ManticoreXL&repo=pinky_person_tracker&theme=nord)](https://github.com/ManticoreXL/pinky_person_tracker)
+- ROS2 학습용 미니 프로젝트
+- 영상 데이터 기반의 사람 인식 및 실시간 추적 파이프라인 구현
+
 ---
 
 ## 💡 Interestings
