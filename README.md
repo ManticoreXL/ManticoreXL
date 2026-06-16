@@ -3,6 +3,15 @@
 # Hi, I'm Minseok Choi.
 임베디드 시스템 개발자 & 로봇 소프트웨어 엔지니어를 목표로 합니다.
 
+<div align="center">
+  <a href="https://ManticoreXL.github.io" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=58&text=🌐%20Portfolio%20→%20manticorexl.github.io&fontSize=19&fontColor=ffffff&fontAlign=50&fontAlignY=58&width=700" />
+  </a>
+  <br/>
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me
 | Period | Activity |
 | :--- | :--- |
