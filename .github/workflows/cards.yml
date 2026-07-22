@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=ManticoreXL&repo=vicpinky_carrier&theme=nord
+          options: username=ManticoreXL&repo=vicpinky_carrier
           path: profile/pin-vicpinky-carrier.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=ManticoreXL&repo=STM32_RCCAR_CONTROLLER&theme=nord
+          options: username=ManticoreXL&repo=STM32_RCCAR_CONTROLLER
           path: profile/pin-stm32-rccar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=ManticoreXL&repo=AI_Pitching_analysis_system&theme=nord
+          options: username=ManticoreXL&repo=AI_Pitching_analysis_system
           path: profile/pin-ai-pitching.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -47,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=ManticoreXL&repo=pinky_person_tracker&theme=nord
+          options: username=ManticoreXL&repo=pinky_person_tracker
           path: profile/pin-pinky-tracker.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
