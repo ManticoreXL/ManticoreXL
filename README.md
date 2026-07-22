@@ -38,8 +38,7 @@
 
 [![Vicpinky Carrier](https://github-readme-stats.vercel.app/api/pin/?username=ManticoreXL&repo=vicpinky_carrier&theme=transparent)](https://github.com/ManticoreXL/vicpinky_carrier)
 - 협소 공간 탐사용 소형 로봇을 다수 전개할 수 있는 구호 로봇 시스템
-- Turtlebot3 하드웨어 개조 및 제어용 ROS2 패키지 개발 담당
-- 현재 프로젝트 진행 중
+- 프로젝트 매니저 및 TurtleBot3 하드웨어 개조, 제어 패키지 개발 담당
 
 [![STM32 RC Car](https://github-readme-stats.vercel.app/api/pin/?username=ManticoreXL&repo=STM32_RCCAR_CONTROLLER&theme=transparent)](https://github.com/ManticoreXL/STM32_RCCAR_CONTROLLER)
 - STM32 MCU 베어메탈 환경 기반 무선 조종 RC카 레이싱 시스템
@@ -56,11 +55,11 @@
 ---
 
 ## 💡 Interestings
+- Robot Operating System
 - Embedded Systems & Firmware
 - Real-Time Operating System
 - System Software
 - Hardware & Interfaces
-- Robot Operating System
 
 ## 📫 Contact
 - E-mail: zip3366@naver.com

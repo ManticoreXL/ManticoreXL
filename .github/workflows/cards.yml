@@ -1,0 +1,61 @@
+name: Generate project cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 매일 00:00 UTC 자동 갱신
+  workflow_dispatch:        # Actions 탭에서 수동 실행 버튼
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # 1. Vicpinky Carrier
+      - name: Vicpinky Carrier
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=ManticoreXL&repo=vicpinky_carrier&theme=nord
+          path: profile/pin-vicpinky-carrier.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. STM32 RC Car
+      - name: STM32 RC Car
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=ManticoreXL&repo=STM32_RCCAR_CONTROLLER&theme=nord
+          path: profile/pin-stm32-rccar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. AI Pitching Analysis
+      - name: AI Pitching Analysis
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=ManticoreXL&repo=AI_Pitching_analysis_system&theme=nord
+          path: profile/pin-ai-pitching.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Pinky Person Tracker
+      - name: Pinky Person Tracker
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=ManticoreXL&repo=pinky_person_tracker&theme=nord
+          path: profile/pin-pinky-tracker.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 생성된 SVG를 저장소에 커밋
+      - name: Commit cards
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update project cards" || exit 0
+          git push
